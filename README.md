@@ -10,6 +10,7 @@ The goal was to implement and compare deep learning models — from a custom **B
 
 ### 🚀 Project Objectives
 - Implement **BIO-Tagging** for entity recognition (slot filling).
+- - Training a **Bi-GRU** model
 - Perform **Intent Detection** to classify user goals.
 - Compare **custom-trained GRU** and **pre-trained ParsBERT** models.
 - Evaluate models by **F1-score, accuracy, inference speed, and RAM usage**.
